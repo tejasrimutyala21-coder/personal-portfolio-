@@ -1,2 +1,15 @@
-# personal-portfolio-
-Designed and developed a responsive personal portfolio website using HTML and CSS to showcase my skills, projects, certifications, and achievements. Published the project on GitHub for easy access and version control
+# 🌐 My Personal Portfolio Website
+
+This is a simple, clean, and responsive personal portfolio website built to showcase my skills, projects, and experience.
+
+## 🛠️ Tech Stack Used
+- **HTML5:** For structured layout and content.
+- **CSS3:** For styling, animations, and responsive design.
+
+👉 [Click here to view my live portfolio]
+https://github.com/tejasrimutyala21-coder
+
+## 📁 Project Structure
+- `index.html` - The main structure of the website.
+- `style.css` - Custom styles and layout configuration.
+-

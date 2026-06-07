@@ -12,4 +12,3 @@ https://github.com/tejasrimutyala21-coder
 ## 📁 Project Structure
 - `index.html` - The main structure of the website.
 - `style.css` - Custom styles and layout configuration.
--
